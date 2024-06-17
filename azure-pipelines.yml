@@ -22,7 +22,7 @@ steps:
     ScanCentral.SscCiToken: $(ScanCentral.SscCiToken)
     sscUrl: 'https://ssc.uat.fortifyhosted.net/'
     uploadToSSC: true
-    applicationName: 'TestLuis_AzureDevOps_Gradle_Kotlin'
+    applicationName: 'TestLuis_AzureDevOps_Kotlin'
     applicationVersion: v01
     buildTool: gradle
     skipBuild: false
